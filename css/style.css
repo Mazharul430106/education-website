@@ -103,6 +103,24 @@ main{
     color: #1D1D1D;
 }
 
+.btnMeet{
+    background: #289BDE !important;
+}
+
+/* feedback stayle start here */
+
+.feedbackText{
+    color: #777777;
+}
+
+.stars > i{
+    color: gold;
+}
+
+/* feedback stayle end here */
+
+
+
 /* meet style end here */
 
 
