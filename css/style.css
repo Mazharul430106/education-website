@@ -25,3 +25,32 @@ header{
 .cuPera{
     color: #F4F4F4;
 }
+
+/* main style start here  */
+
+main{
+    padding: 0 7%;
+}
+
+.course-title p{
+    color: #777777;
+}
+
+.cardTitle{
+    color: #4A4A4A;
+}
+.card-body span{
+    color: #289BDE;
+}
+
+.coursePera{
+    color: #777777;
+}
+
+.courseBtn{
+    background-color: #289BDE;
+}
+.course-btn .courseBtn:hover{
+    color: #000 !important;
+}
+/* main style end here  */
