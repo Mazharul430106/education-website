@@ -72,9 +72,27 @@ main{
     color: #000 !important;
 }
 
-
 /* explor style end here */
 
+/* join style start here */
+
+.joinSection{
+    background-color: #289BDE;
+}
+
+.joinSection{
+    color: #F4F4F4;
+}
+
+.regBtn{
+    color: #289BDE;
+}
+.regBtn:hover{
+    color: #000;
+}
+
+
+/* join style end here */
 
 
 /* main style end here  */

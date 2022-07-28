@@ -16,6 +16,12 @@
     .btnExplor{
         margin-top: 0;
     }
+
+    .joinLeft{
+        text-align: center;
+    }
+
+
 }
 
 @media screen and (max-width:576px) {
