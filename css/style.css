@@ -2,9 +2,26 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+header{
+    padding: 0 7%;
+}
 .brand{
     color: #4A4A4A;
 }
 .navLink{
     color: #777777;
+}
+
+/* slider start here */
+
+.carousel-item > img{
+    width: 100%;
+    max-height: 90vh;
+}
+.btnSl{
+    background-color: #289BDE;
+   
+}
+.cuPera{
+    color: #F4F4F4;
 }
