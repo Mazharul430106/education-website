@@ -1,3 +1,23 @@
+@media screen and (max-width:992px) {
+    .expRight {
+        padding: 0;
+    }
+    .expText{
+        font-size: 16px;
+        padding-right: 70px;
+        margin-bottom: 0;
+    }
+    .expText{
+        font-size: 14px;
+    }
+    .expText > #TextHide{
+        display: none;
+    }
+    .btnExplor{
+        margin-top: 0;
+    }
+}
+
 @media screen and (max-width:576px) {
     #hide{
         display: none;
@@ -5,4 +25,13 @@
     .cardBody{
         padding: 35px;
     }
+    .rating{
+        flex-wrap: wrap;
+    }
+
+    .expRight > div{
+        padding: 50px 0;
+    }
+   
 }
+

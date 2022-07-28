@@ -53,4 +53,28 @@ main{
 .course-btn .courseBtn:hover{
     color: #000 !important;
 }
+
+/* explor style start here */
+
+.expRight{
+    background-color: #F4FAFD;
+}
+.expText{
+    color: #777777;
+}
+.rating span{
+    color: #777777;
+}
+.btnExplor{
+    background-color: #289BDE;
+}
+.btnExplor:hover{
+    color: #000 !important;
+}
+
+
+/* explor style end here */
+
+
+
 /* main style end here  */
