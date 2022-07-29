@@ -21,6 +21,10 @@
         text-align: center;
     }
 
+    .companey-section {
+        display: none;
+    }
+
 
 }
 
