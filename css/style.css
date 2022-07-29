@@ -94,7 +94,6 @@ main{
 /* join style end here */
 
 /* meet style start here */
-
 .meetText{
     color: #777777;
 }
@@ -107,8 +106,10 @@ main{
     background: #289BDE !important;
 }
 
-/* feedback stayle start here */
+/* meet style end here */
 
+
+/* feedback stayle start here */
 .feedbackText{
     color: #777777;
 }
@@ -125,12 +126,19 @@ main{
 }
 /* faq section style end here */
 
+/* companey style start here */
 .cmImg{
     width: 120px;
 }
-
-
-/* meet style end here */
-
+/* companey style end here */
 
 /* main style end here  */
+
+/* footer style start here */
+.footText{
+    color: #999999;
+}
+/* footer style end here */
+
+
+
