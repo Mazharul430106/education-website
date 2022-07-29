@@ -123,8 +123,11 @@ main{
 .faqText{
     color: #777777;
 }
-
 /* faq section style end here */
+
+.cmImg{
+    width: 120px;
+}
 
 
 /* meet style end here */
